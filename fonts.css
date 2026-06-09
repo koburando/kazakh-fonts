@@ -1,0 +1,216 @@
+﻿@font-face {
+    font-family: 'Alistair-Signature';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Alistair-Signature.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ALS-Alumna-Kazak-Fonts';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/ALS-Alumna-Kazak-Fonts.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Anna-Faustina';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Anna-Faustina.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ANTQUABI.kz';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/ANTQUABI.kz.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cassandra';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Cassandra.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Caveat';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Caveat.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GoudyTrajan-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/GoudyTrajan-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ-Balmoral';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ-Balmoral.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ-Boyarsky';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ-Boyarsky.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ-Carolina';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ-Carolina.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ-Decor';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ-Decor.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ-Mon-Amour-One';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ-Mon-Amour-One.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZCorinthia-3';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZCorinthia-3.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZGoodVibes-2';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZGoodVibes-2.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZPFMonumentaPro-Metallica';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZPFMonumentaPro-Metallica.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZPF_Champion_Script_Pro';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZPF_Champion_Script_Pro.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_Andantino_script_kz';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_Andantino_script_kz.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_Appetite-Rounded_';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_Appetite-Rounded_.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_Ariston';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_Ariston.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_ceremonious-one';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_ceremonious-one.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_ceremonious-three';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_ceremonious-three.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_ceremonious-two';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_ceremonious-two.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kz_ITC-New-Veljovic-DS-Pro-Book-It_kz';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Kz_ITC-New-Veljovic-DS-Pro-Book-It_kz.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_Jikharev_';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_Jikharev_.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_Nautilus';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_Nautilus.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_Rapier_LET';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_Rapier_LET.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_Romul';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_Romul.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kz_Ventura-Script_';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Kz_Ventura-Script_.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_Vivaldi_kz';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_Vivaldi_kz.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'KZ_You_2013';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/KZ_You_2013.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Merriweather-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Merriweather-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Ouvality';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Ouvality.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Sports-World-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/Sports-World-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: '_AsylbekM02Shelley.kz_';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/_AsylbekM02Shelley.kz_.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: '_KZKlementina-Regular_';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/_KZKlementina-Regular_.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: '_Miama_Nueva_kz';
+    src: url('https://cdn.jsdelivr.net/gh/koburando/kazakh-fonts/_Miama_Nueva_kz.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
